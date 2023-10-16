@@ -1,0 +1,37 @@
+table {width: 500;
+height: 700px;
+color: white;
+background-color: black;
+border-radius: 5%;
+box-shadow: 10px 5px gray;
+margin: 30px;
+padding: 10px;
+text-align: center;
+font-size: 24pt;
+
+
+}
+
+table tr.circl td {background-color: gray;
+width: 100px;
+border-radius: 30%;
+color: black; font-weight:bolder;}
+
+
+#orang {background-color: orange;
+color: white;}
+#orang:hover {background: #f2c111;
+cursor: pointer;}
+#orang:active {background: #e0b516;}
+
+#grey {color: white;
+background-color:#393a3b;}
+#grey:hover {background:#403f3c;
+cursor: pointer;}
+#grey:active {background: #292826;}
+
+#size {font-size: 50pt;
+cursor:cell;}
+
+#dot:hover {background-color:#949492;}
+#dot:active {background-color:#abaaa7 ;}
